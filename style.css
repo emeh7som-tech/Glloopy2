@@ -1,0 +1,5 @@
+body { font-family: sans-serif; margin: 0; padding: 0; background: #f9f9f9; }
+header { background: #111; color: white; padding: 10px; display: flex; justify-content: space-between; }
+nav a { color: white; margin: 0 10px; text-decoration: none; }
+main { padding: 20px; }
+.painel { display: none; background: black; color: lime; padding: 10px; position: fixed; top: 10px; right: 10px; border-radius: 10px; z-index: 999; }
